@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Society Clean-Up 🌿
 
 A complete, responsive, database-connected web application built for the school subject **Community Connect**.
@@ -177,3 +178,6 @@ README.md               # Setup and user guide
 - **Report Integrity**: Public visitors can report dirty areas, but only authenticated admins can change statuses or delete records.
 - **Protected Admin Authorization**: Admin verification is checked directly against the protected `admin_users` table via the `is_admin()` SQL function. Browser claims are never trusted.
 - **Service-Role Safety**: The Supabase service-role key is never exposed on the client.
+=======
+# Community-Clean-UP
+>>>>>>> c99c78eb65984fee9287b77ccc77e7b54e9803ce
